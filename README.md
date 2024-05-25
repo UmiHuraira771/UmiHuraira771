@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UmiHuraira771
+- 👋 Hi, I’m JUNED KHAN
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning React and Design
 - 💞️ I’m looking to collaborate with Awesome People
